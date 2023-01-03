@@ -1,13 +1,13 @@
 # echo-reviews
 
-##Goal 
+## Goal 
 Build, train, test, deploy an AI model to predict sentiment from Amazon Echo customer reviews
 
-##Tools
+## Tools
 Python, Scikit-learn, Seaborn, Matplotlib
 
-##Data
-###Input
+## Data
+### Input
 Amazon Reviews
-###Output
+### Output
 Sentiment - 0 is positive and 1 is negative sentiment
